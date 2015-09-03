@@ -6,8 +6,8 @@ Adds keyboard shortcuts and other stuff to GitHub.
 
 * Adds shortcuts to toggle between PR tabs and view diffs without whitespace.
 * Adds a button to view diffs without whitespace for people that prefer that.
-* Enables GitHub's file browser in PRs for the files that have changed in the PR, using Sublime
-Text-style fuzzy-matching logic.
+* Enables GitHub's file browser for changed files in PRs and commits, using Sublime Text-style
+fuzzy-matching logic.
 * Adds a deploy button to Mixmax repos.
 
 Find the shortcuts for the above in GitHub's site-wide keyboard shortcut map (press "?" outside a
